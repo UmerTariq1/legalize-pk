@@ -1,8 +1,9 @@
 | Title        | Proclamation of emergency on account of war, internal disturbance, etc.                     |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 18 February 1975                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 3  | https://pakistani.org/pakistan/constitution/amendments/3amendment.html |
 
 (1) If the President is satisfied that a grave emergency exists in which the security of Pakistan, or any part thereof, is threatened by war or external aggression, or by internal disturbance beyond the power of a Provincial Government to control, he may issue a Proclamation of Emergency.
 
@@ -24,6 +25,6 @@ Provided that nothing in paragraph (c) shall authorise the Federal Government to
 
 (a) shall cease to be in force at the expiration of two months unless before the expiration of that period it has been approved by a resolution of the joint sitting; and
 
-(b) may, by a resolution of a joint sitting, be continued in force for a period not exceeding six months at a time.
+(b) shall, subject to the provisions of paragraph (a) cease to be in force upon a resolution disapproving the proclamation being passed by the votes of the majority of the total membership of the two Houses in joint sitting.
 
 (8) Notwithstanding anything contained in clause (7), if the National Assembly stands dissolved at the time when a Proclamation of Emergency is issued, the Proclamation shall continue in force for a period of four months but, if a general election to the Assembly is not held before the expiration of that period, it shall cease to be in force at the expiration of that period unless it has earlier been approved by a resolution of the Senate.
