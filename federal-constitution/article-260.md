@@ -1,11 +1,12 @@
 | Title        | Definitions.                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 16 September 1976                                                                           |
+| Last Updated | 31 December 1976                                                                           |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
 | Amendment 2  | https://pakistani.org/pakistan/constitution/amendments/2amendment.html |
 | Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |
+| Amendment 6  | https://pakistani.org/pakistan/constitution/amendments/6amendment.html |
 
 (1) In the Constitution, unless the context otherwise requires, the following expressions have the meaning hereby respectively assigned to them, that is to say,—
 
@@ -107,7 +108,7 @@ death;
 
 “security of Pakistan” includes the safety, welfare, stability and integrity of Pakistan and of each part of Pakistan, but shall not include public safety as such ;
 
-“service of Pakistan” means any service, post or office in connection with the affairs of the Federation or of a Province, and includes an All-Pakistan Service, service in the Armed Forces and any other service declared to be a service of Pakistan by or under Act of Parliament or of a Provincial Assembly, but does not include service as Speaker, Deputy Speaker, Chairman, Deputy Chairman, Prime Minister, Federal Minister, Minister of State, Chief Minister, Provincial Minister, Attorney-General, Advocate-General, Parliamentary Secretary or member of a House or a Provincial Assembly ;
+“service of Pakistan” means any service, post or office in connection with the affairs of the Federation or of a Province, and includes an All-Pakistan Service, service in the Armed Forces and any other service declared to be a service of Pakistan by or under Act of Parliament or of a Provincial Assembly, but does not include service as Speaker, Deputy Speaker, Chairman, Deputy Chairman, Prime Minister, Federal Minister, Minister of State, Chief Minister, Provincial Minister, Attorney-General, Advocate-General, Parliamentary Secretary, Chairman or member of a law commission, Chairman or member of the Council of Islamic Ideology, Special Assistant to the Prime Minister, Adviser to the Prime Minister, Special Assistant to a Chief Minister, Advisor to a Chief Minister or member of a House or a Provincial Assembly ;
 
 “Speaker” means the Speaker of the National Assembly or a Provincial Assembly, and includes any person acting as the Speaker of the Assembly ;
 
