@@ -1,16 +1,20 @@
 | Title        | First National Assembly.                                                                    |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 21 November 1975                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html |
 
-(1) Notwithstanding anything contained in the Constitution, but subject to Article 64 and Article 223,—
+(1) Notwithstanding anything contained in the Constitution, but subject to Article 63, Article 64 and Article 223,—
 
-(a) the first National Assembly shall consist of persons who have taken oath in the National Assembly of Pakistan existing immediately before the commencing day and unless sooner dissolved, shall continue till the fourteenth day of August, one thousand nine hundred and seventy-seven, and reference to “total membership” of the National Assembly in the Constitution shall be construed accordingly ; and
+(a) the first National Assembly shall consist of-
+(i) persons who have taken oath in the National Assembly of Pakistan existing immediately before the commencing day, and
+(ii) the persons to be elected in accordance with law by the members of Assembly to fill the seats referred to in clause (2-A) of Article 51,
+and unless sooner dissolved, shall continue until the fourteenth day August, one thousand nine hundred and seventy seven; and reference to total membership of the National Assembly in the Constitution shall be construed accordingly.
 
 (b) the qualifications and disqualifications for being elected and being a member of the first National Assembly shall, except in case of
 
-members filling casual vacancies after the commencing day, be the same as under the Interim Constitution of the Islamic Republic of Pakistan :
+members filling casual vacancies, or to be elected to the additional seats referred to in clause (2-A) of Article 51, after the commencing day, be the same as under the Interim Constitution of the Islamic Republic of Pakistan :
 
 Provided that no person holding an office of profit in the service of Pakistan shall continue to be a member of the first National Assembly after the expiration of three months from the commencing day.
 

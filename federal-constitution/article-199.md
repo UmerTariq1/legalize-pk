@@ -1,9 +1,10 @@
 | Title        | Jurisdiction of High Court.                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 04 May 1974                                                                                 |
+| Last Updated | 21 November 1975                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
+| Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html |
 
 (1) Subject to the Constitution, a High Court may, if it is satisfied that no other adequate remedy is provided by law,—
 (a) on the application of any aggrieved party, make an order—
@@ -20,6 +21,10 @@ or authority, including any Government exercis- ing any power or performing any 
 
 (3) An order shall not be made under clause (1) on application made by or in relation to a person who is a member of the Armed Forces of Pakistan , or who is for the time being subject to any law relating to any of those Forces, in respect of his terms and conditions of service, in respect of any matter arising out of his service, or in respect of any action taken in relation to him as a member of the Armed Forces of Pakistan or as a person subject to such law.
 
+(3-A) A High Court shall not make an order under clause (1)—
+(a) prohibiting the making of an order for the detention of a person, or
+(b) for the grant of bail to a person detained, under any law providing for preventive detention.
+
 (4) Where—
 
 (a) an application is made to a High Court for an order under paragraph (a) or paragraph (c) of clause (1), and
@@ -31,6 +36,8 @@ the Court shall not make an interim order unless the pres- cribed law officer ha
 (i) would not have such effect as aforesaid; or
 
 (ii) would have the effect of suspending an order or proceeding which on the face of the record is without jurisdiction.
+
+(4-A) An interim order made by a High Court on an application made to it to question the validity or legal effect of any order made, proceeding taken or act done by any authority or person, which has been made, taken or done or purports to have been made, taken or done under any law which is specified in Part I of the First Schedule or relates to, or is connected with, assessment or collection of public revenues shall cease to have effect on the expiration of a period of sixty days following the day on which it is made, unless the case is finally decided, or the interim order is withdrawn, by the court earlier.
 
 (5) In this Article. unless the context otherwise requires,—
 

@@ -1,11 +1,12 @@
 | Title        | First constitution of Senate.                                                               |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 04 May 1974                                                                                 |
+| Last Updated | 21 November 1975                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
+| Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html |
 
-(1) Notwithstanding anything contained in the Constitution, but subject to Article 223,—
+Notwithstanding anything contained in the Constitution, but subject to Article 63 and Article 223,—
 
 (a) the Senate shall, until the first National Assembly under the Constitution continues in existence,
 
