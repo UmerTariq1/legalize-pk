@@ -1,8 +1,9 @@
 | Title        | Supreme Judicial Council.                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 04 May 1974                                                                                 |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
 
 (1) There shall be a Supreme Judicial Council of Pakistan, in this Chapter referred to as the Council.
 
@@ -14,7 +15,7 @@
 
 (c) the two most senior Chief Justices of High Courts.
 
-Explanation.—For the purpose of this clause, the inter se seniority of the Chief Justices of the High Courts shall be determined with reference to their dates of appoint- ment as Chief Justice, and in case the dates of such appointment are the same, with reference to their dates of appointment as Judges of any of the High Courts.
+Explanation.—For the purpose of this clause, the inter se seniority of the Chief Justices of the High Courts shall be determined with reference to their dates of appoint- ment as Chief Justice, otherwise than as acting Chief Justice, and in case the dates of such appointment are the same, with reference to their dates of appointment as Judges of any of the High Courts.
 
 (3) If at any time the Council is inquiring into the capacity or conduct of a Judge who is a member of the Council, or a member of the Council is absent or is unable to act due to illness or any other cause, then—
 (a) if such member is a Judge of the Supreme Court, the Judge of the Supreme Court who is next in seniority below the Judges referred to in paragraph (b) of clause (2), and

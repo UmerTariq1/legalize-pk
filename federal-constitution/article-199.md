@@ -1,8 +1,9 @@
 | Title        | Jurisdiction of High Court.                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 04 May 1974                                                                                 |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
 
 (1) Subject to the Constitution, a High Court may, if it is satisfied that no other adequate remedy is provided by law,—
 (a) on the application of any aggrieved party, make an order—
@@ -17,7 +18,7 @@ or authority, including any Government exercis- ing any power or performing any 
 
 (2) Subject to the Constitution, the right to move a High Court for the enforcement of any of the Fundamental Rights conferred by Chapter 1 of Part II shall not be abridged.
 
-(3) An order shall not be made under clause (1) on application made by or in relation to a member of the Armed Forces of Pakistan in respect of his terms and condi- tions of service, in respect of any matter arising out of his service, or in respect of any action taken in relation to him as a member of the Armed Forces of Pakistan.
+(3) An order shall not be made under clause (1) on application made by or in relation to a person who is a member of the Armed Forces of Pakistan , or who is for the time being subject to any law relating to any of those Forces, in respect of his terms and conditions of service, in respect of any matter arising out of his service, or in respect of any action taken in relation to him as a member of the Armed Forces of Pakistan or as a person subject to such law.
 
 (4) Where—
 

@@ -1,8 +1,9 @@
 | Title        | Laws inconsistent with or in derogation of Fundamental Rights to be void.                   |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 04 May 1974                                                                                 |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
 
 (1) Any law, or any custom or usage having the force of law, in so far as it is inconsistent with the rights conferred by this Chapter, shall, to the extent of such inconsistency, be void.
 
@@ -11,7 +12,7 @@
 (3) The provisions of this Article shall not apply to—
 (a) any law relating to members of the Armed Forces, or of the police or of such other forces as are charged with the maintenance of public order, for the purpose of ensuring the proper discharge of their duties or the maintenance of discipline among them ; or
 
-(b) any of the laws specified in the First Schedule as in force immediately before the commencing day ;
+(b) any of the laws specified in the First Schedule as in force immediately before the commencing day or as amended by any of the laws specified in that schedule;
 
 and no such law nor any provision thereof shall be void on the ground that such law or provision is inconsistent with, or repugnant to, any provision of this Chapter.
 

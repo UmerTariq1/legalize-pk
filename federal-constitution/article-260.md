@@ -1,8 +1,9 @@
 | Title        | Definitions.                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 04 May 1974                                                                                 |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
 
 (1) In the Constitution, unless the context otherwise requires, the following expressions have the meaning hereby respectively assigned to them, that is to say,—
 
@@ -19,6 +20,8 @@
 “ Chairman ” means the Chairman of the Senate and,
 except in Article 49, includes a person acting as
 Chairman of the Senate ;
+
+"Chief Justice", in relation to the Supreme Court or a High Court, includes the Judge for the time being acting as Chief justice of the Court ;
 
 “ citizen ” means a citizen of Pakistan as defined by
 law ;
@@ -102,7 +105,7 @@ death;
 
 “security of Pakistan” includes the safety, welfare, stability and integrity of Pakistan and of each part of Pakistan, but shall not include public safety as such ;
 
-“service of Pakistan” means any service, post or office in connection with the affairs of the Federation or of a Province, and includes an All-Pakistan Service, service in the Armed Forces and any other service declared to be a service of Pakistan by or under Act of Parliament or of a Provincial Assembly, but does not include service as Speaker, Deputy Speaker, Chairman, Deputy Chairman, Prime Minister, Federal Minister, Minister of State, Chief Minister, Provincial Minister or member of a House or a Provincial Assembly ;
+“service of Pakistan” means any service, post or office in connection with the affairs of the Federation or of a Province, and includes an All-Pakistan Service, service in the Armed Forces and any other service declared to be a service of Pakistan by or under Act of Parliament or of a Provincial Assembly, but does not include service as Speaker, Deputy Speaker, Chairman, Deputy Chairman, Prime Minister, Federal Minister, Minister of State, Chief Minister, Provincial Minister, Attorney-General, Parliamentary Secretary or member of a House or a Provincial Assembly ;
 
 “Speaker” means the Speaker of the National Assembly or a Provincial Assembly, and includes any person acting as the Speaker of the Assembly ;
 
