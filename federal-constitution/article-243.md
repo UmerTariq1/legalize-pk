@@ -1,9 +1,10 @@
 | Title        | Command of Armed Forces.                                                                    |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 04 April 1997                                                                               |
+| Last Updated | 31 December 2003                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 13 | https://pakistani.org/pakistan/constitution/amendments/13amendment.html |
+| Amendment 17 | https://pakistani.org/pakistan/constitution/amendments/17amendment.html |
 
 (1) The Federal Government shall have control and command of the Armed Forces.
 
