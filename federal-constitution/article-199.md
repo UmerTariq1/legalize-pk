@@ -1,10 +1,11 @@
 | Title        | Jurisdiction of High Court.                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 21 November 1975                                                                            |
+| Last Updated | 16 September 1976                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
 | Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html |
+| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |
 
 (1) Subject to the Constitution, a High Court may, if it is satisfied that no other adequate remedy is provided by law,—
 (a) on the application of any aggrieved party, make an order—
@@ -21,9 +22,16 @@ or authority, including any Government exercis- ing any power or performing any 
 
 (3) An order shall not be made under clause (1) on application made by or in relation to a person who is a member of the Armed Forces of Pakistan , or who is for the time being subject to any law relating to any of those Forces, in respect of his terms and conditions of service, in respect of any matter arising out of his service, or in respect of any action taken in relation to him as a member of the Armed Forces of Pakistan or as a person subject to such law.
 
-(3-A) A High Court shall not make an order under clause (1)—
-(a) prohibiting the making of an order for the detention of a person, or
-(b) for the grant of bail to a person detained, under any law providing for preventive detention.
+(3-A) A High Court shall not make under this Article -
+(a) an order prohibiting the making, or suspending the operation, of an order for the detention of any person under any law providing for preventive detention;
+(b) an order for the release on bail of any person detained under any law providing for preventive detention;
+(c) an order for the release on bail, or an order suspending the operation of an order for the custody, of any person against whom a report or complaint has been made before any Court or tribunal, or against whom a case has been registered at any police station, in respect of an offence, or who has been convicted by any Court or tribunal;
+(d) an order prohibiting the registration of a case at a police station, or the making of a report or complaint before any Court or tribunal, in respect of an offence; or
+(e) any other interim order in respect of any person referred any of the preceding paragraphs.
+
+(3-B) Every such order as is referred to in clause (3-A), made at any time after the commencement of the Constitution (Fourth Amendment) Act, 1975, shall cease to have effect and all applications for the making of any such order that may be pending before any High Court shall abate.
+
+(3-C) The provisions of clauses (3-A) and (3-B) shall also apply to the disposal of an application in a petition for leave to appeal, or in an appeal, from an order such as is referred to in the said clause (3-A) that may be pending before the Supreme Court immediately before the commencement of the Constitution (Fifth Amendment) Act, 1976.
 
 (4) Where—
 
