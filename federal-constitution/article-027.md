@@ -1,12 +1,13 @@
 | Title        | Safeguard against discrimination in services.                                               |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 05 August 1999                                                                              |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 16 | https://pakistani.org/pakistan/constitution/amendments/16amendment.html |
 
 (1) No citizen otherwise qualified for appointment in the service of Pakistan shall be discriminated against in respect of any such appointment on the ground only of race, religion, caste, sex, residence or place of birth :
 
-Provided that, for a period not exceeding ten years from the commencing day, posts may be reserved for persons belonging to any class or area to secure their adequate representation in the service of Pakistan :
+Provided that, for a period not exceeding forty years from the commencing day, posts may be reserved for persons belonging to any class or area to secure their adequate representation in the service of Pakistan :
 
 Provided further that, in the interest of the said service, specified posts or services may be reserved for members of either sex if such posts or services entail the performance of duties and functions which cannot be adequately performed by members of the other sex.
 
