@@ -1,9 +1,10 @@
 | Title        | Definitions.                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 04 May 1974                                                                                 |
+| Last Updated | 17 September 1974                                                                           |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
+| Amendment 2  | https://pakistani.org/pakistan/constitution/amendments/2amendment.html |
 
 (1) In the Constitution, unless the context otherwise requires, the following expressions have the meaning hereby respectively assigned to them, that is to say,—
 
@@ -114,3 +115,5 @@ death;
 “tax on income” includes a tax in the nature of an excess profits tax or a business profits tax.
 
 (2) In the Constitution “Act of Parliament” or “Federal law” or “Act of Provincial Assembly” or “Provincial law” shall include an Ordinance promulgated by the President or, as the case may be, a Governor.
+
+(3) A person who does not believe in the absolute and unqualified finality of The Prophethood of MUHAMMAD (Peace be upon him), the last of the Prophets or claims to be a Prophet, in any sense of the word or of any description whatsoever, after MUHAMMAD (Peace be upon him), or recognizes such a claimant as a Prophet or religious reformer, is not a Muslim for the purposes of the Constitution or law.

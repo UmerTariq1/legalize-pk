@@ -1,0 +1,3 @@
+Before this amendment, the question of who was or wasn't a Muslim was largely considered a private or theological matter. By passing this law, the state took on the power to legally define a person's faith. For the average citizen, this meant that a specific group—the Ahmadis—who identified as Muslims were now officially categorized as a non-Muslim minority by the government.
+
+In practical terms, this shifted the balance of power toward the state and religious authorities in matters of personal identity. It restricted the legal rights of the Ahmadi community to identify themselves as they chose, and it set a precedent for the law to be used to regulate religious definitions and affiliations within Pakistan.
