@@ -1,14 +1,15 @@
 | Title        | Appointment of Governor.                                                                    |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 11 November 1985                                                                            |
+| Last Updated | 04 April 1997                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |
 | Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |
 | Amendment 7  | https://pakistani.org/pakistan/constitution/amendments/7amendment.html                      |
-| Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |
+| Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html                      |
+| Amendment 13 | https://pakistani.org/pakistan/constitution/amendments/13amendment.html |
 
-(1) There shall be a Governor for each Province, who shall be appointed by the President after consultation with the Prime Minister.
+(1) There shall be a Governor for each Province, who shall be appointed by the President on the advice of the Prime Minister.
 
 (2) A person shall not be appointed a Governor unless he is qualified to be elected as a member of the National Assembly and is not less than thirty-five years of age.
 
