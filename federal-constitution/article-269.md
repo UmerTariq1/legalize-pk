@@ -1,0 +1,11 @@
+| Title        | Validation of laws, etc.                                                                    |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| First Added  | 14 August 1973                                                                              |
+| Last Updated | 14 August 1973                                                                              |
+| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+
+(1) All Proclamations, President’s Orders, Martial Law Regulations, Martial Law Orders and all other laws, acts, laws made between the twentieth day of December, one thousand nine hundred and seventy-one and the twentieth day of April, one thousand nine hundred and seventy-two (both days inclusive), are hereby declared, notwithstanding any judgment of any court, to have been validly made by competent authority and shall not be called in question in any court on any ground whatsoever.
+
+(2) All orders made, proceedings taken and acts done by any authority, or by any person, which were made, taken or done, or purported to have been made, taken or done, between the twentieth day of December, one thousand nine hundred and seventy- one, and the twentieth day of April, one thousand nine hundred and seventy-two (both days inclusive), in exercise of the powers derived from any President's Orders, Martial Law Regulations, Martial Law Orders, enactments, notifications, rules, orders or bye-laws, or in execution of any orders made or sentences passed by any authority in the exercise or purported exercise of powers as aforesaid, shall, notwithstanding any judgment of any court, be deemed to be and always to have been validly made, taken or done and shall not be called in question in any court on any ground whatsoever.
+
+(3) No suit or other legal proceedings shall lie in any court against any authority or any person for or on account of or in respect of any order made, proceedings taken or act done whether in the exercise or purported exercise of the powers referred to in clause (2) or in execution of or in compliance with orders made or sentences passed in exercise or purported exercise of such powers.

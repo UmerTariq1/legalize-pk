@@ -1,0 +1,38 @@
+| Title        | Supreme Judicial Council.                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------- |
+| First Added  | 14 August 1973                                                                              |
+| Last Updated | 14 August 1973                                                                              |
+| Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+
+(1) There shall be a Supreme Judicial Council of Pakistan, in this Chapter referred to as the Council.
+
+(2) The Council shall consist of—
+
+(a) the Chief Justice of Pakistan ;
+
+(b) the two next most senior Judges of the Supreme Court ; and
+
+(c) the two most senior Chief Justices of High Courts.
+
+Explanation.—For the purpose of this clause, the inter se seniority of the Chief Justices of the High Courts shall be determined with reference to their dates of appoint- ment as Chief Justice, and in case the dates of such appointment are the same, with reference to their dates of appointment as Judges of any of the High Courts.
+
+(3) If at any time the Council is inquiring into the capacity or conduct of a Judge who is a member of the Council, or a member of the Council is absent or is unable to act due to illness or any other cause, then—
+(a) if such member is a Judge of the Supreme Court, the Judge of the Supreme Court who is next in seniority below the Judges referred to in paragraph (b) of clause (2), and
+(b) if such member is the Chief Justice of a High Court, the Chief Justice of another High Court who is next in seniority amongst the Chief Justices of the remaining High Courts,
+shall act as a member of the Council in his place.
+(4) If, upon any matter inquired into by the Council, there is a difference of opinion amongst its members, the opinion of the majority shall prevail, and the report of the Council to the President shall be expressed in terms of the view of the majority.
+(5) If, on information received from the Council or from any other source, the President is of the opinion that a Judge of the Supreme Court or of a High Court—
+(a) may be incapable of properly performing the duties of his office by reason of physical or mental incapacity ; or
+(b) may have been guilty of misconduct,
+the President shall direct the Council to inquire into the matter.
+(6) If, after inquiring into the matter, the Council reports to the President that it is of the opinion—
+
+(a) that the Judge is incapable of performing the duties of his office or has been guilty of misconduct; and
+
+(b) that he should be removed from office,
+
+the President may remove the Judge from office.
+
+(7) A Judge of the Supreme Court or of a High Court shall not be removed from office except as provided by this Article,
+
+(8) The Council shall issue a code of conduct to be observed by Judges of the Supreme Court and of the High Courts..
