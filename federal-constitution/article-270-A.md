@@ -1,12 +1,12 @@
 | Title        | 270-A Affirmation of President's Orders, etc. |
 | ------------ | ---------------------------------- |
 | First Added  | 11 November 1985 |
-| Last Updated | 11 November 1985 |
+| Last Updated | 19 April 2010 |
 | Source       | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |
-| Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
 (1?)
-The Proclamation of the fifth day of July, 1977, all President's Orders, Ordinances. Martial Law Regulation Martial Law Orders, including the Referendum Order, 1984 (P.O. No 11 of 1984), under which in consequence of the result of the referendum held on the nineteenth day December 1984, General Muhammad Zia-ul-Haq became the President the day of the first meeting of the Majlis-e-Shoora (Parliament) in joint sitting for the term specified in clause (7) of Article 41, the Revival of the Constitution of 1973 Order 1985 (P.O. No. 14 of 1985), the Constitution (Second Amendment) Order, 1985(P.O.20 of 1985) the Constitution (Third Amendment) Order, 1985 (P O.No.24 of 1985) and all other laws made between the fifth day of July, 1977and the date on which Article comes into force are hereby affirmed, adopted and declared notwithstanding a judgment of any court, to have been validly made by competent authority and notwithstanding anything contained in the Constitution shall not be called in question in any Court on any ground whatsoever;
+The Proclamation of the fifth day of July, 1977, all President's Orders, Ordinances. Martial Law Regulation Martial Law Orders, including the Referendum Order, 1984 (P.O. No 11 of 1984), the Revival of the Constitution of 1973 Order 1985 (P.O. No. 14 of 1985), the Constitution (Second Amendment) Order, 1985(P.O.20 of 1985) the Constitution (Third Amendment) Order, 1985 (P O.No.24 of 1985) and all other laws made between the fifth day of July, 1977and the date on which Article comes into force are hereby affirmed, adopted and declared notwithstanding a judgment of any court, to have been validly made by competent authority and notwithstanding anything contained in the Constitution shall not be called in question in any Court on any ground whatsoever;
 Provided that a President's Order', Martial Law Regulation or Martial Law Order made after the thirtieth day of September, 1985, shall be confined only to making such provisions as facilitate, or are incidental to, the revocation of the Proclamation of the fifth day of July, 1977.
 
 (2)
@@ -27,5 +27,5 @@ No suit, prosecution or other legal proceedings shall lie in any Court against a
 For the purposes of clauses (1), (2) and (4), all orders made, proceedings taken, acts done or purporting to be made, taken or done by any authority or person shall be deemed to have been made, taken or done in good faith and for the purposes intended to be served thereby.
 
 (6)
-Such of the President's Orders and 0rdinances referred to in clause (1) as are specified in the Seventh Schedule may be amended in the manner provided for amendment of the Constitution, and all other laws referred to in the said clause may be amended by the appropriate Legislature in the manner provided for amendment of such laws.
+The laws referred to in clause (1) may be amended by the appropriate Legislature in the manner provided for amendment of such laws.
 Explanation. In this Article, "President's Orders" includes "President and Chief Martial Law Administrator’s Orders" and "Chief Martial Law Administrator’s Orders.".

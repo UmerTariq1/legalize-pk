@@ -1,38 +1,28 @@
-| Title        | Constitution of Provincial Assemblies.                                                      |
+| Title        | Constitution of Provincial Assemblies:                                                      |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 11 November 1985                                                                            |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 2  | https://pakistani.org/pakistan/constitution/amendments/2amendment.html |
 | Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html |
 | Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1) There shall be a Provincial Assembly for each Province consisting of the number of members hereinafter specified to be elected by direct and free vote in accordance with law—
+(1) Each Provincial Assembly shall consist of general seats and seats reserved for women and non-Muslims as specified herein below:-
+General seats	Women	Non-Muslims	Total
+Balochistan	51	11	3	65
+Khyber Pakhtunkhwa	99	22	3	124
+Punjab	297	66	8	371
+Sindh	130	29	9	168
 
-Baluchistan ... ... ... 40  
-The North-West Frontier Province ... 80  
-The Punjab ... ... ... 240  
-Sind ... ... ... 100
-
-(2) A person shall be entitled to vote if—
-
-(a) he is a citizen of Pakistan ;
-
-(b) he is not less than eighteen years of age ;
-
-(c) his name appears on the electoral roll for any area in the Province; and
-
+(2) A person shall be entitled to vote if-
+(a) he is a citizen of Pakistan;
+(b) he is not less than eighteen years of age;
+(c) his name appears on the electoral roll; and
 (d) he is not declared by a competent court to be of unsound mind.
 
-Provided that, for the purpose of the first general election to the Provincial Assembly or an election to a seat falling vacant before the holding of the second general election to the Assembly, paragraph (b) shall have effect as if for the word “eighteen” therein the word “twenty-one” were substituted.
-
-(3) In addition to the seats in the Provincial Assemblies for the Provinces of Baluchistan, the Punjab, the North-West Frontier and Sind specified in clause (1), there shall be in those Assemblies the number of additional seats hereinafter specified reserved for persons belonging to the Christian, Hindu, Sikh, Budhist and Parsi communities and other non-Muslims and persons belonging to the Quadiani group or the Lahori group (who call themselves 'Ahmadis') or the scheduled castes—
-
-Baluchistan ... ... ... 1  
-The North-West Frontier Province ... 1  
-The Punjab ... ... 5  
-Sind ... ... ... 2
-
-(4) Until the expiration of a period of ten years from the commencing day or the holding of the third general election to the Assembly of a Province, whichever occurs later, there shall be in the Assembly a number of additional seats reserved for women equal to five per centum of the number of members of that Assembly specified in clause (1).
-
-(5) As soon as practicable after the general election to a Provincial Assembly, the members to fill seats reserved in the Assembly for the persons referred to in clause (3) or for women shall be elected in accordance with law by the members of that Assembly referred to in clause (1).
+(3) For the purpose of election to the Provincial Assembly,-
+(a) the constituencies for the general seats shall be single member territorial constituencies and the members to fill such seats shall be elected by direct and free vote;
+(b) each Province shall be a single constituency for all seats reserved for women and non-Muslims allocated to the respective Provinces under clause (3);
+(c) the members to fill seats reserved for women and non-Muslims allocated to a Province under clause (1) shall be elected in accordance with law through proportional representation system of political parties' lists of candidates on the basis of total number of general seats secured by each political party in the Provincial Assembly:
+Provided that for the purpose of this sub-clause the total number of general seats won by a political party shall include the independent returned candidate or candidates who may duly join such political party within three days of the publication in the official Gazette of the names of the returned candidates.

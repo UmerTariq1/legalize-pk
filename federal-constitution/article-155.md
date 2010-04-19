@@ -1,10 +1,11 @@
 | Title        | Complaints as to interference with water supplies.                                          |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1) If the interests of a Province, the Federal Capital or the Federally Administered Tribal Areas, or any of the inhabitants thereof, in water from any natural source of supply have been or are likely to be affected prejudicially by—
+(1) If the interests of a Province, the Federal Capital or the Federally Administered Tribal Areas, or any of the inhabitants thereof, in water from any natural source of supply or reservoir have been or are likely to be affected prejudicially by—
 
 (a) any executive act or legislation taken or passed or proposed to be taken or passed, or
 

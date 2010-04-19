@@ -1,10 +1,14 @@
 | Title        | Procedure with respect to Money Bills.                                                      |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1) Notwithstanding anything contained in Article 70 or Article 71, a Money Bill shall originate in the National Assembly and after it has been passed by the Assembly it shall, without being transmitted to the Senate, be presented to the President for assent.
+(1) Notwithstanding anything contained in Article 70, a Money Bill shall originate in the National Assembly:  
+Provided that simultaneously when a Money Bill, including the Finance Bill containing the Annual Budget Statement, is presented in the National Assembly, a copy thereof shall be transmitted to the Sentate which may, within fourteen days, make recommendations thereon to the National Assembly.
+
+(1A) The National Assembly shall consider the recommendations of the Senate and after the Bill has been passed by the Assembly with or without incorporating the recommendations of the Senate, it shall be presented to the President for assent.
 
 (2) For the purposes of this Chapter, a Bill or amendment shall be deemed to be a Money Bill if it contains provisions dealing with all or any of the following matters, namely :—
 

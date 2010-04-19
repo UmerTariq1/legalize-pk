@@ -1,11 +1,16 @@
 | Title        | Proclamation of emergency on account of war, internal disturbance, etc.                     |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 18 February 1975                                                                            |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 3  | https://pakistani.org/pakistan/constitution/amendments/3amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1) If the President is satisfied that a grave emergency exists in which the security of Pakistan, or any part thereof, is threatened by war or external aggression, or by internal disturbance beyond the power of a Provincial Government to control, he may issue a Proclamation of Emergency.
+(1) If the President is satisfied that a grave emergency exists in which the security of Pakistan, or any part thereof, is threatened by war or external aggression, or by internal disturbance beyond the power of a Provincial Government to control, he may issue a Proclamation of Emergency:
+
+Provided that for imposition of emergency due to internal disturbances beyond the powers of a Provincial Government to control, a Resolution from the Provincial Assembly of that Province shall be required:
+
+Provided further that if the President acts on his own, the Proclamation of Emergency shall be placed before both Houses of Majlis-e-Shoora (Parliament) for approval by each House within ten days.
 
 (2) Notwithstanding anything in the Constitution, while a Proclamation of Emergency is in force,—
 (a) Parliament shall have power to make laws for a Province, or any part thereof, with respect to any matter enumerated in Part II of the Federal Legislative List or the Concurrent Legislative List or with respect to any matter not enumerated in either of those Lists, as if it were a matter specified in Part I of the Federal Legislative List ;

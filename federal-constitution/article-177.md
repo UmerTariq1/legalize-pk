@@ -1,10 +1,11 @@
 | Title        | Appointment of Supreme Court judges.                                                        |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1) The Chief Justice of Pakistan shall be appointed by the President, and each of the other Judges shall be appointed by the President after consultation with the Chief Justice.
+(1) The Chief Justice of Pakistan and each of the other Judges of the Supreme Court shall be appointment by the President in accordance with Article 175A.
 
 (2) A person shall not be appointed a Judge of the Supreme Court unless he is a citizen of Pakistan and—
 

@@ -1,19 +1,14 @@
 | Title        | Appointment of High Court Judges.                                                           |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 04 May 1974                                                                                 |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1) A Judge of a High Court shall be appointed by the President after consultation—
+(1) The Chief Justice and each of the other Judges of a High Court shall be appointed by the President in accordance with Article 175A.
 
-(a) with the Chief Justice of Pakistan ;
-
-(b) with the Governor concerned ; and
-
-(c) except where the appointment is that of Chief Justice, with the Chief Justice of the High Court.
-
-(2) A person shall not be appointed a Judge of a High Court unless he is a citizen of Pakistan, is not less than forty years of age, and—
+(2) A person shall not be appointed a Judge of a High Court unless he is a citizen of Pakistan, is not less than forty-five years of age, and—
 
 (a) he has for a period of, or for periods aggregating, not less than ten years been an advocate of a High Court (including a High Court which existed in Pakistan at any time before the commencing day); or
 

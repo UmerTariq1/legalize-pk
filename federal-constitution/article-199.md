@@ -1,11 +1,12 @@
 | Title        | Jurisdiction of High Court.                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 16 September 1976                                                                            |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
-| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
-| Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html |
-| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |
+| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |
+| Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html                      |
+| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
 (1) Subject to the Constitution, a High Court may, if it is satisfied that no other adequate remedy is provided by law,—
 (a) on the application of any aggrieved party, make an order—
@@ -20,7 +21,7 @@ or authority, including any Government exercis- ing any power or performing any 
 
 (2) Subject to the Constitution, the right to move a High Court for the enforcement of any of the Fundamental Rights conferred by Chapter 1 of Part II shall not be abridged.
 
-(3) An order shall not be made under clause (1) on application made by or in relation to a person who is a member of the Armed Forces of Pakistan , or who is for the time being subject to any law relating to any of those Forces, in respect of his terms and conditions of service, in respect of any matter arising out of his service, or in respect of any action taken in relation to him as a member of the Armed Forces of Pakistan or as a person subject to such law.
+(3) An order shall not be made under clause (1) on application made by or in relation to a person who is a member of the Armed Forces of Pakistan, or who is for the time being subject to any law relating to any of those Forces, in respect of his terms and conditions of service, in respect of any matter arising out of his service, or in respect of any action taken in relation to him as a member of the Armed Forces of Pakistan or as a person subject to such law.
 
 (3-A) A High Court shall not make under this Article -
 (a) an order prohibiting the making, or suspending the operation, of an order for the detention of any person under any law providing for preventive detention;
@@ -45,7 +46,8 @@ the Court shall not make an interim order unless the pres- cribed law officer ha
 
 (ii) would have the effect of suspending an order or proceeding which on the face of the record is without jurisdiction.
 
-(4-A) An interim order made by a High Court on an application made to it to question the validity or legal effect of any order made, proceeding taken or act done by any authority or person, which has been made, taken or done or purports to have been made, taken or done under any law which is specified in Part I of the First Schedule or relates to, or is connected with, assessment or collection of public revenues shall cease to have effect on the expiration of a period of sixty days following the day on which it is made, unless the case is finally decided, or the interim order is withdrawn, by the court earlier.
+(4-A) An interim order made by a High Court on an application made to it to question the validity or legal effect of any order made, proceeding taken or act done by any authority or person, which has been made, taken or done or purports to have been made, taken or done under any law which is specified in Part I of the First Schedule or relates to, or is connected with, State property or assessment or collection of public revenues shall cease to have effect on the expiration of a period of six months following the day on which it is made:
+Provided that the matter shall be finally decided by the High Court within six months from the date on which the interim order in made.
 
 (5) In this Article. unless the context otherwise requires,—
 

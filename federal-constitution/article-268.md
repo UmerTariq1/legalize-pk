@@ -1,14 +1,13 @@
 | Title        | Continuance in force, and adaptation of, certain laws.                                      |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 31 December 2003                                                                            |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
-| Amendment 17 | https://pakistani.org/pakistan/constitution/amendments/17amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
 (1) Except as provided by this Article, all existing laws shall, subject to the Constitution, continue in force, so far as applicable and with the necessary adaptations, until altered, repealed or amended by the appropriate Legislature.
 
-(2) The laws specified in the Sixth Schedule shall not be altered, repealed or amended without the previous sanction of the President:  
-Provided that the laws mentioned at entries 27 to 30 and entry 35 in the Sixth Schedule shall stand omitted after six years.
+(2) 
 
 (3) For the purpose of bringing the provisions of any existing law into accord with the provisions of the Constitution (other than Part II of the Constitution), the President may by Order, within a period of two years from the commencing day, make such adaptations, whether by way of modification, addition or omission, as he may deem to be necessary or expedient, and any such Order may be made so as to have effect from such day, not being a day earlier than the commencing day, as may be specified in the Order.
 

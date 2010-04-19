@@ -1,10 +1,11 @@
 | Title        | Power to issue Proclamation in case of failure of Constitutional machinery in a Province.   |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1) If the President, on receipt of a report from the Governor of a Province or otherwise, is satisfied that a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution, the President may, or if a resolution in this behalf is passed at a joint sitting shall, by Proclamation,—
+(1) If the President, on receipt of a report from the Governor of a Province, is satisfied that a situation has arisen in which the Government of the Province cannot be carried on in accordance with the provisions of the Constitution, the President may, or if a resolution in this behalf is passed by each House separately shall, by Proclamation,—
 (a) assume to himself, or direct the Governor of the Province to assume on behalf of the President, all or any of the functions of the Government of the Province, and all or any of the powers vested in, or exercisable by, anybody or authority in the Province, other than the Provincial Assembly ;
 (b) declare that the powers of the Provincial Assembly shall be exercisable by, or under the authority of, Parliament ; and
 (c) make such incidental and consequential provisions as appear to the President to be necessary or desirable for giving effect to the objects of the Proclamation, including provisions for suspending in whole or in part the operation of any provisions of the Constitution relating to any body or authority in the Province :

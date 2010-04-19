@@ -1,8 +1,9 @@
 | Title        | Composition, etc., of Islamic Council.                                                      |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
 (1) There shall be constituted within a period of ninety days from the commencing day a Council of Islamic Ideology, in this Part referred to as the Islamic Council.
 
@@ -14,7 +15,7 @@
 
 (b) not less than two of the members are persons each of whom is, or has been a Judge of the Supreme Court or of a High Court ;
 
-(c) not less than four of the members are persons each of whom has been engaged, for a period of not less than fifteen years, in Islamic research or instruction ; and
+(c) not less than one-third of the members are persons each of whom has been engaged, for a period of not less than fifteen years, in Islamic research or instruction ; and
 
 (d) at least one member is a woman.
 

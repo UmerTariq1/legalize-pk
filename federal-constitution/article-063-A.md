@@ -1,36 +1,33 @@
-| Title        | 63A Disqualification on ground of defection, etc. |
+| Title        | 63A Disqualification on grounds of defection, etc. |
 | ------------ | ---------------------------------- |
 | First Added  | 03 July 1997 |
-| Last Updated | 03 July 1997 |
+| Last Updated | 19 April 2010 |
 | Source       | https://pakistani.org/pakistan/constitution/amendments/14amendment.html |
-| Amendment 14 | https://pakistani.org/pakistan/constitution/amendments/14amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
-(1)
-If a member of a Parliamentary Party defects, he may be means of a notice in writing addressed to him by the Head of the Political Party or such other person as may be authorized in this behalf by the Head of the Political Party, be called upon the show cause, within not more than seven days of such a notice, as to why a Declaration under clause (2) should not be made against him. If a notice is issued under this clause, the Presiding Officer of the concerned House shall be informed accordingly.
+(1) If a member of a Parliamentary Party composed of a single political party in a House-
+(a) resigns from membership of his political party or joins another Parliamentary Party; or
+(b) votes or abstains from voting in the House contrary to any direction issued by the Parliamentary Party to which he belongs, in relations to-
+(i) election of the Prime Minister or the Chief Minister; or
+(ii) a vote of confidence or a vote of no-confidence; or
+(iii) a Money Bill or a Constitution (Amendment) Bill;
+he may be declared in writing by the Party Head to have defected from the political party, and the Party Head may forward a copy of the declaration to the Presiding Officer and the Chief Election Commissioner and shall similarly forward a copy thereof to the member concerned:
+Provided that before making the declaration, the Party Head shall provide such member with an opportunity to show cause as to why such declaration may not be made against him.
+Explanation: "Party Head" means any person, by whatever name called, declared as such by the Party.
 
-Explanation: A member of a House shall be deemed to defect from a political party if he, having been elected as such, as a candidate or nominee of a political party: or under a symbol of political party or having been elected otherwise than as a candidate or nominee of a political party, and having become a member of a political party after such election by means of a declaration in writing –
-(a)
-commits a breach of party discipline which means a violation of the party constitution, code of conduct and declared policies, or
-(b)
-votes contrary to any direction issued by the Parliamentary Party to which he belongs, or
-(c)
-abstain from voting in the House against party policy in relation to any bill.
+(2) A member of a House shall be deemed to be a member of a Parliamentary Party if he having been elected as a candidate or nominee of a political party which constitutes the Parliamentary Party in the House or, having been elected otherwise than as a candidate or nominee of a political party, has become a member of such Parliamentary Party after such election by means of a declaration in writing.
 
-(2)
-Where action is proposed to be taken under the Explanation to clause (1), sub-clause (a) the disciplinary committee of the party on a reference by the Head of the Party, shall decide the matter, after giving an opportunity of a personal hearing to the member concerned within seven days. In the event the decision is against the member, he can file an appeal, within seven days, before the Head of the Party, whose decision thereon shall be final, in cases covered by the Explanation to clause (1), sub-clauses (b) and (c), the declaration may be made by the Head of the Party concerned after examining the explanation of the member and determining whether or not that member has defected.
+(3) Upon receipt of the declaration under clause (1), the Presiding Officer of the House shall within two days refer the declaration to the Chief Election Commissioner who shall lay the declaration before the Election Commission for its decision thereon confirming the declaration or otherwise within thirty days of its receipt by the Chief Election Commissioner.
 
-(3)
-The Presiding Officer of the House shall be intimated the decision by Head of the Political Party in addition to intimation which shall also be concerned member. The Presiding Officer shall within two days transmit the decision to the Chief Election Commissioner. The Chief Election Commissioner, shall give effect to such decision, within seven days from the date of the receipt of such intimation by declaring the seat vacant and amend it under the schedule of the bye-election.
+(4) Where the Election Commission confirms the declaration, the member referred to in clause (1) shall cease to be a member of the House and his seat shall become vacant.
 
-(4)
-Nothing contained in this Article shall apply to the Chairman or Speaker of a House.
+(5) Any party aggrieved by the decision of the Election Commission may within thirty days, prefer an appeal to the Supreme Court which shall decide the matter within ninety days from the date of the filing of the appeal.
 
-(5)
-For the purpose of this Article—
-(a)
-“House” means the National Assembly or the Senate, in relation to and the Federation; and a Provincial Assembly in relation to the Province, as the case may be.
-(b)
-“Presiding Officer” means the Speaker of the National Assembly, the Chairman of the Senate or the Speaker of the Provincial Assembly, as case may be.
+(6) Nothing contained in this Article shall apply to the Chairman or Speaker of a House.
 
-(6)
-Notwithstanding anything contained in the Constitution, no court including the Supreme Court and a High Court shall entertain any legal proceedings, exercise any jurisdiction, or make any order in relation to the action under this Article.
+(7) For the purpose of this Article -
+(a) "House" means the National Assembly or the Senate in relation to the Federation and a Provincial Assembly in relation to the Province, as the case may be.
+(b) "Presiding Officer" means the Speaker of the National Assembly, the Chairman of the Senate or the Speaker of the Provincial Assembly, as the case may be.
+
+(8) Article 63A substituted as aforesaid shall come into effect from the next general elections to be held after the commencement of the Constitution (Eighteenth Amendment) Act, 2010:
+Provided that till Article 63A substituted as aforesaid comes into effect the provisions of existing Article 63A shall remain operative.

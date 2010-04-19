@@ -1,12 +1,13 @@
 | Title        | Definitions.                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 31 December 1976                                                                           |
+| Last Updated | 19 April 2010                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
-| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
-| Amendment 2  | https://pakistani.org/pakistan/constitution/amendments/2amendment.html |
-| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |
-| Amendment 6  | https://pakistani.org/pakistan/constitution/amendments/6amendment.html |
+| Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |
+| Amendment 2  | https://pakistani.org/pakistan/constitution/amendments/2amendment.html                      |
+| Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |
+| Amendment 6  | https://pakistani.org/pakistan/constitution/amendments/6amendment.html                      |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 
 (1) In the Constitution, unless the context otherwise requires, the following expressions have the meaning hereby respectively assigned to them, that is to say,—
 
