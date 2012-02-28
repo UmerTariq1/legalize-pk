@@ -1,9 +1,10 @@
 | Title        | Duties of Commission.                                                                      |
 | ------------ | ------------------------------------------------------------------------------------------ |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 19 April 2010                                                                              |
+| Last Updated | 02 February 2012                                                                           |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 20 | https://pakistani.org/pakistan/constitution/amendments/20amendment.html |
 
 The Commission shall be charged with the duty of—
 
@@ -15,4 +16,6 @@ The Commission shall be charged with the duty of—
 
 (d) the holding of general elections to the National Assembly, Provincial Assemblies and the local governments; and
 
-(e) such other functions as may be specified by an Act of Majlis-e-Shoora (Parliament).
+(e) such other functions as may be specified by an Act of Majlis-e-Shoora (Parliament):
+
+Provided that till such time as the members of the Commission are first appointed in accordance with the provisions of paragraph (b) of clause (2) of Article 218 pursuant to the Constitution (Eighteenth Amendment) Act, 2010, and enter upon their office, the Commissioner shall remain charged with the duties enumerated in paragraphs (a), (b) and (c) of this Article.
