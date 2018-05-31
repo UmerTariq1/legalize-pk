@@ -1,19 +1,25 @@
 | Title        | Constitution of Provincial Assemblies:                                                      |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 19 April 2010                                                                               |
+| Last Updated | 31 May 2018                                                                                 |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 2  | https://pakistani.org/pakistan/constitution/amendments/2amendment.html |
 | Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html |
 | Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 25 | https://www.senate.gov.pk/uploads/documents/1528343985_133.pdf |
 
 (1) Each Provincial Assembly shall consist of general seats and seats reserved for women and non-Muslims as specified herein below:-
 General seats	Women	Non-Muslims	Total
 Balochistan	51	11	3	65
-Khyber Pakhtunkhwa	99	22	3	124
+Khyber Pakhtunkhwa	115	26	4	145
 Punjab	297	66	8	371
 Sindh	130	29	9	168
+
+(1A) The seats for the Province of Khyber Pakhtunkhwa, referred to in clause (1), include sixteen general seats, four seats for women and one seat for non-Muslims in respect of the Federally Administered Tribal Areas:
+Provided that elections to the aforesaid seats shall be held within one year after the general elections, 2018.
+
+(1B) After elections to seats referred to in clause (1A), both clause (1A) and this clause shall stand omitted.
 
 (2) A person shall be entitled to vote if-
 (a) he is a citizen of Pakistan;
