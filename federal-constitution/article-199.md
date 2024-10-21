@@ -1,12 +1,13 @@
 | Title        | Jurisdiction of High Court.                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 19 April 2010                                                                               |
+| Last Updated | 21 October 2024                                                                             |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |
 | Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html                      |
 | Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |
-| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html                     |
+| Amendment 26 | https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf |
 
 (1) Subject to the Constitution, a High Court may, if it is satisfied that no other adequate remedy is provided by law,—
 (a) on the application of any aggrieved party, make an order—
@@ -18,6 +19,8 @@
 (c) on the application of any aggrieved person, make an order giving such directions to any person
 
 or authority, including any Government exercis- ing any power or performing any function in, or in relation to, any territory within the jurisdiction of that Court as may be appropriate for the enforcement of any of the Fundamental Rights conferred by Chapter 1 of Part II.
+
+(1A) For removal of doubt, the High Court shall not make an order or give direction or make a declaration on its own or in the nature of suo motu exercise of jurisdiction beyond the contents of any application filed under clause (1).
 
 (2) Subject to the Constitution, the right to move a High Court for the enforcement of any of the Fundamental Rights conferred by Chapter 1 of Part II shall not be abridged.
 

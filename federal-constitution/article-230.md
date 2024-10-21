@@ -1,8 +1,9 @@
 | Title        | Functions of the Islamic Council.                                                           |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 14 August 1973                                                                              |
+| Last Updated | 21 October 2024                                                                             |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
+| Amendment 26 | https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf |
 
 (1) The functions of the Islamic Council shall be—
 (a) to make recommendations to Parliament and the Provincial Assemblies as to the ways and means of enabling and encouraging the Muslims of Pakistan to order their lives individually and collectively in all respects in accordance with the principles and concepts of Islam as enunciated in the Holy Quran and Sunnah ;
@@ -15,4 +16,6 @@
 
 Provided that, where a law is referred for advice to the Islamic Council and the Council advises that the law is repugnant to the Injunctions of Islam, the House or, as the case may be, the Provincial Assembly, the President or the Governor shall reconsider the law so made.
 
-(4) The Islamic Council shall submit its final report within seven years of its appointment, and shall submit an annual interim report. The report, whether interim or final, shall be laid for discussion before both Houses and each Provincial Assembly within six months of its receipt, and Parliament and the Assembly, after considering the report, shall enact laws in respect thereof within a period of two years of the final report.
+(4) The Islamic Council shall submit its final report within seven years of its appointment, and shall submit an annual interim report. The report, whether interim or final, shall be laid for discussion before both Houses and each Provincial Assembly within six months of its receipt, and Parliament and the Assembly, after considering the report, shall enact laws in respect thereof within a period of two years of the final report:
+
+Provided that the final report in any case shall be considered within twelve months after it has been laid.

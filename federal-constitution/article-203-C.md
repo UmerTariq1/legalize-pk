@@ -1,9 +1,10 @@
 | Title        | Article 203C: Constitution of the Court       |
 | ------------ | --------------------------------------------- |
 | First Added  | 19 April 2010                                 |
-| Last Updated | 19 April 2010                                 |
+| Last Updated | 21 October 2024                               |
 | Source       | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 26 | https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf |
 
 (2) The Chairman of the Council of Islamic Ideology, if he is not a judge of the Federal Shariat Court, and every other member thereof, shall be appointed by the President in accordance with Article 175A.
 

@@ -1,9 +1,10 @@
 | Title        | Promotion of social justice and eradication of social evils.                                |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 19 April 2010                                                                               |
+| Last Updated | 21 October 2024                                                                             |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 26 | https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf |
 
 The State shall—
 
@@ -17,6 +18,6 @@ The State shall—
 
 (e) reduce disparity in the income and earnings of individuals, including persons in the various classes of the service of Pakistan ;
 
-(f) eliminate riba as early as possible ; and
+(f) eliminate riba completely before the first day of January, two thousand twenty-eight; and
 
 (g) the shares of the Provinces in all federal services, including autonomous bodies and corporations established by, or under the control of, the Federal Government, shall be secured and any omission in the allocation of the shares of the Provinces in the past shall be recitified.
