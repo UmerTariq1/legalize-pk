@@ -1,13 +1,14 @@
 | Title        | Jurisdiction of High Court.                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 21 October 2024                                                                             |
+| Last Updated | 13 November 2025                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |
 | Amendment 4  | https://pakistani.org/pakistan/constitution/amendments/4amendment.html                      |
 | Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html                     |
 | Amendment 26 | https://www.na.gov.pk/uploads/documents/671f74b8da9e0_263.pdf |
+| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |
 
 (1) Subject to the Constitution, a High Court may, if it is satisfied that no other adequate remedy is provided by law,—
 (a) on the application of any aggrieved party, make an order—
@@ -49,8 +50,7 @@ the Court shall not make an interim order unless the pres- cribed law officer ha
 
 (ii) would have the effect of suspending an order or proceeding which on the face of the record is without jurisdiction.
 
-(4-A) An interim order made by a High Court on an application made to it to question the validity or legal effect of any order made, proceeding taken or act done by any authority or person, which has been made, taken or done or purports to have been made, taken or done under any law which is specified in Part I of the First Schedule or relates to, or is connected with, State property or assessment or collection of public revenues shall cease to have effect on the expiration of a period of six months following the day on which it is made:
-Provided that the matter shall be finally decided by the High Court within six months from the date on which the interim order in made.
+(4-A) An interim order made by a High Court on an application made to it to question the validity or legal effect of any order made, proceeding taken or act done by any authority or person, which has been made, taken or done or purports to have been made, taken or done under any law which is specified in Part I of the First Schedule or relates to, or is connected with, State property or assessment or collection of public revenues shall cease to have effect on the expiration of a period of six months following the day on which it is made.
 
 (5) In this Article. unless the context otherwise requires,—
 

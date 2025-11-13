@@ -1,11 +1,12 @@
 | Title        | The Senate                                                                                   |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 31 May 2018                                                                               |
+| Last Updated | 13 November 2025                                                                               |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 8  | https://pakistani.org/pakistan/constitution/amendments/8amendment.html |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 | Amendment 25 | https://www.senate.gov.pk/uploads/documents/1528343985_133.pdf |
+| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |
 
 (1) The Senate shall consist of ninety-six members, of whom-
 (a) fourteen shall be elected by the members of each Provincial Assembly;
@@ -26,6 +27,8 @@ Provided that paragraph (f) shall be effective from the next Senate election aft
 (e) of the members referred to in paragraph (e) of the aforesaid clause, two shall retire after the expiration of the first three years and two shall retire after the expiration of the next three years; and
 (f) of the members referred to in paragraph (f) of the aforesaid clause, two shall retire after the expiration of the first three years and two shall retire after the expiration of the next three years:
 Provided that the Election Commission for the first term of seats for non-Muslims shall draw a lot as to which two members shall retire after the first three years.
+
+Explanation.- The term of a member, notwithstanding the date of his election, shall expire on the eleventh day of March of the year of the completion of term for which he is elected.
 
 (3A) Notwithstanding the omission of paragraph (b) of clause (1) and the omission of paragraph (b) of clause (3), the existing members of the Senate from the Federally Administered Tribal Areas shall continue till expiry of their respective terms of office and on the expiry of the aforesaid terms this clause shall stand omitted.
 

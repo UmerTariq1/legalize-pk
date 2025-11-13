@@ -1,13 +1,14 @@
 | Title        | Definitions.                                                                                |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 19 April 2010                                                                               |
+| Last Updated | 13 November 2025                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html                      |
 | Amendment 2  | https://pakistani.org/pakistan/constitution/amendments/2amendment.html                      |
 | Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html                      |
 | Amendment 6  | https://pakistani.org/pakistan/constitution/amendments/6amendment.html                      |
-| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html                     |
+| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |
 
 (1) In the Constitution, unless the context otherwise requires, the following expressions have the meaning hereby respectively assigned to them, that is to say,—
 
@@ -25,7 +26,7 @@
 except in Article 49, includes a person acting as
 Chairman of the Senate ;
 
-"Chief Justice", in relation to the Supreme Court or a High Court, includes the Judge for the time being acting as Chief justice of the Court ;
+"Chief Justice", in relation to the Federal Constitutional Court or the Supreme Court or a High Court, includes the Judge for the time being acting as Chief justice of the Court ;
 
 “ citizen ” means a citizen of Pakistan as defined by
 law ;
@@ -79,7 +80,7 @@ death;
 
 “ joint sitting ” means a joint sitting of the two Houses ;
 
-“ Judge ” in relation to the Supreme Court or a High Court, includes the Chief Justice of the Court and also includes—
+“ Judge ” in relation to the Federal Constitutional Court or the Supreme Court or a High Court, includes the Chief Justice of the Court and also includes—
 
 (a) in relation to the Supreme Court, a person who is acting as a Judge of the Court ; and
 
@@ -116,6 +117,9 @@ death;
 “taxation” includes the imposition of any tax or duty, whether general, local or special, and “tax” shall be construed accordingly ;
 
 “tax on income” includes a tax in the nature of an excess profits tax or a business profits tax.
+
+“technocract” means a person who has sixteen years of
+education and fifteen years of experience in his field.”
 
 (2) In the Constitution “Act of Parliament” or “Federal law” or “Act of Provincial Assembly” or “Provincial law” shall include an Ordinance promulgated by the President or, as the case may be, a Governor.
 

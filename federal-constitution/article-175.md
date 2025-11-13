@@ -1,15 +1,16 @@
 | Title        | Establishment and jurisdiction of courts.                                                   |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 07 January 2017                                                                             |
+| Last Updated | 13 November 2025                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
 | Amendment 19 | https://pakistani.org/pakistan/constitution/amendments/19amendment.html |
 | Amendment 21 | https://pakistani.org/pakistan/constitution/amendments/20amendment.html |
 | Amendment 23 | https://web.archive.org/web/20260114145032/https://na.gov.pk/uploads/documents/1491460727_515.pdf |
+| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |
 
-—(1) There shall be a Supreme Court of Pakistan, a High Court for each Province and a High Court for the Islamabad Capital Territory and such other courts as may be established by law.
+—(1) There shall be a Federal Constitutional Court of Pakistan, a Supreme Court of Pakistan, a High Court for each Province and a High Court for the Islamabad Capital Territory and such other courts as may be established by law.
 
 Explanation.- Unless the context otherwise requires, the words "High Court" wherever occurring in the Constitution shall include "Islamabad High Court."
 

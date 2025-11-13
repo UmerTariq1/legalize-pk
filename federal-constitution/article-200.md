@@ -1,16 +1,40 @@
 | Title        | Transfer of High Court Judges.                                                              |
 | ------------ | ------------------------------------------------------------------------------------------- |
 | First Added  | 14 August 1973                                                                              |
-| Last Updated | 19 April 2010                                                                               |
+| Last Updated | 13 November 2025                                                                            |
 | Source       | https://factfocus.com/wp-content/uploads/2021/03/Original-Constitution-of-1973-Pakistan.pdf |
 | Amendment 1  | https://pakistani.org/pakistan/constitution/amendments/1amendment.html |
 | Amendment 5  | https://pakistani.org/pakistan/constitution/amendments/5amendment.html |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |
 
-(1) The President may transfer a Judge of a High Court from one High Court to another High Court, but no Judge shall be so transferred except with his consent and after consultation by the President with the Chief Justice of Pakistan and the Chief Justices of both High Courts: 
+(1) The President may
+transfer a Judge of a High Court from one High Court to another High
+Court on the recommendation of and on such terms and condtions as
+may be determined by the Judicial Commission of Pakistan as mentioned
+in clause (2) of Article 175A:
+Provided that the Chief Justices of both High Courts shall also be
+members of the Judicial Commission of Pakistan for the purposes of this
+clause.
 
-Explanation. In this Article, "Judge" does not include a " Chief Justice".
+Explanation. – In this Article, “Judge” does not include a Chief
+Justice but includes a Judge for the time being acting as Chief Justice of a
+High Court other than a Judge of the Supreme Court acting as such in
+pursuance of a request made under paragraph (b) of Article 196.
 
-(2) When a Judge is so transferred, he shall. during the period for which he serves as a Judge of the High Court to which he is transferred, be entitled to such compensatory allowance, in addition to his salary, as the President may, by Order, determine.
+(2) The seniority of a Judge of a High Court transferred under
+clause (1) shall be reckoned from the date of his initial appointment as a
+Judge of the High Court:
+Provided that no Judge shall be transferred to a High Court where
+on transfer he becomes senior to the Chief Justice of such High Court.
 
-(3) If any time it is necessary for any reason to increase temporarily the number of Judges of a High Court, the Chief Justice of that High Court may require a Judge of any other High Court to attend sittings of the former High Court for such period as may be necessary and, while so attending the sittings of the High Court, the Judge shall have the same power and Jurisdiction as a Judge of that High Court. Provided that a Judge shall not be so required except with his consent and the approval of the President and after consolation with the Chief Justice of Pakistan and the Chief Justice of the High Court of which he is a Judge.
+(3) Where a Judge is so transferred, he shall be entitled to such
+additional allowances and privileges, in addition to his salary and
+allowances, as the President may, by Order, determine.
+
+(4) A Judge of a High Court who does not accept a transfer under
+this Article shall be deemed to have retired from his office and, on such
+retirement, he shall be entitled to receive a pension calculated on the
+
+basis of the length of his service as Judge and total service, if any, in the
+service of Pakistan.

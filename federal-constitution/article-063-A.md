@@ -1,9 +1,10 @@
 | Title        | 63A Disqualification on grounds of defection, etc. |
 | ------------ | ---------------------------------- |
 | First Added  | 03 July 1997 |
-| Last Updated | 19 April 2010 |
+| Last Updated | 13 November 2025 |
 | Source       | https://pakistani.org/pakistan/constitution/amendments/14amendment.html |
 | Amendment 18 | https://pakistani.org/pakistan/constitution/amendments/18amendment.html |
+| Amendment 27 | https://www.senate.gov.pk/uploads/documents/1762598611_995.pdf |
 
 (1) If a member of a Parliamentary Party composed of a single political party in a House-
 (a) resigns from membership of his political party or joins another Parliamentary Party; or
@@ -21,7 +22,7 @@ Explanation: "Party Head" means any person, by whatever name called, declared as
 
 (4) Where the Election Commission confirms the declaration, the member referred to in clause (1) shall cease to be a member of the House and his seat shall become vacant.
 
-(5) Any party aggrieved by the decision of the Election Commission may within thirty days, prefer an appeal to the Supreme Court which shall decide the matter within ninety days from the date of the filing of the appeal.
+(5) Any party aggrieved by the decision of the Election Commission may within thirty days, prefer an appeal to the Federal Constitutional Court which shall decide the matter within ninety days from the date of the filing of the appeal.
 
 (6) Nothing contained in this Article shall apply to the Chairman or Speaker of a House.
 
